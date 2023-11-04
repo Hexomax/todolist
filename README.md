@@ -8,7 +8,7 @@ Avec le sujet de faire un __TO-DO List__, l'application backend a:
 *Partition par niveaux (controllers et repositories)
 * Validation des chemins.
 * Utilization des Filtres pour l'autentication et validation.
-* Deploy de l'application.
+* Deploy de l'application.</br>
 
 ## Les Sujets abordees:
 *Construction d'une aplication backend TO-DO list.
@@ -21,3 +21,4 @@ Avec le sujet de faire un __TO-DO List__, l'application backend a:
 *Lombok.
 *H2 Databases
 *Bcrypt
+</br>
