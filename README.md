@@ -6,7 +6,7 @@
 Avec le sujet de faire un __TO-DO List__, l'application backend a:
 
 * Rest API avec ORM (integration avec la base de donnees)
-* Partition par niveaux (controllers et repositories)
+* Partition des niveaux (controllers et repositories)
 * Validation des chemins.
 * Utilization des Filtres pour l'autentication et validation.
 * Deploy de l'application.</br>
